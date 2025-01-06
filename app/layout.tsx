@@ -20,7 +20,7 @@ export default function RootLayout({
         <a href={"/"}>Dassboard</a> |
         <Link href={"/profil"}>Profil</Link> |
         Visi |
-        Kontak 
+        kunci
       </header>
 
         {children}
